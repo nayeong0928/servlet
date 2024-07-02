@@ -1,5 +1,6 @@
 package hello.servlet.basic.web.frontcontroller.v2;
 
+import hello.servlet.basic.web.frontcontroller.MyView;
 import hello.servlet.basic.web.frontcontroller.v2.controller.MemberFormControllerV2;
 import hello.servlet.basic.web.frontcontroller.v2.controller.MemberListControllerV2;
 import hello.servlet.basic.web.frontcontroller.v2.controller.MemberSaveControllerV2;
